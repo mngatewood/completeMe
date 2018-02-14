@@ -1,5 +1,5 @@
 {
-  "name": "tdd",
+  "name": "autocomplete",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -20,7 +20,7 @@
     "babel-preset-env": "^1.1.8",
     "babel-preset-es2015": "^6.24.1",
     "chai": "^3.5.0",
-    "mocha": "^3.4.2",
+    "mocha": "^3.5.3",
     "webpack": "^3.3.0"
   },
   "repository": {
@@ -31,9 +31,9 @@
     "url": "https://github.com/mngatewood/tdd/issues"
   },
   "homepage": "https://github.com/mngatewood/tdd#readme",
-  "description": "",
   "dependencies": {
     "babel-eslint": "^8.2.1",
     "eslint": "^4.17.0"
-  }
+  },
+  "description": ""
 }
