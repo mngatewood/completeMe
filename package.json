@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/mngatewood/tdd#readme",
   "dependencies": {
+    "babel": "^6.23.0",
     "babel-eslint": "^8.2.1",
     "eslint": "^4.17.0"
   },
